@@ -1,2 +1,2 @@
 deneme 
-[dosya](https://github.com/havasutahta/denemeler/master/doc/text.asdf)
+[dosya](https://github.com/havasutahta/denemeler/raw/master/doc/text.asdf)
