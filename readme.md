@@ -1,2 +1,2 @@
 deneme 
-[dosya](./doc/text.asdf)
+[dosya](https://github.com/user/denemeler/master/doc/text.asdf)
